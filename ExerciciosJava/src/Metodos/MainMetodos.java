@@ -1,5 +1,5 @@
 
-public class Main {
+public class MainMetodos {
     public static void main (String[] args) {
         Calculadora.soma(5,8);
         Calculadora.subtracao(5,8);

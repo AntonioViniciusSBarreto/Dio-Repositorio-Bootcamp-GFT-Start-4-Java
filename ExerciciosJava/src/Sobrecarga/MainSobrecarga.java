@@ -1,5 +1,5 @@
 
-public class Main {
+public class MainSobrecarga {
     public static void main(String[] args) {
         
         System.out.println("Área: "+ AreaQuadrilatero.calculoArea(8, 10)); 
