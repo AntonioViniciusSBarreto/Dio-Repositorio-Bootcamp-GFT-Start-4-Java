@@ -1,5 +1,3 @@
-package MetodosdeJava.ExercicioSobrecarga;
-
 public class AreaQuadrilatero {
     public static double calculoArea(double lado1, double lado2) {
         double area = lado1 *lado2;
