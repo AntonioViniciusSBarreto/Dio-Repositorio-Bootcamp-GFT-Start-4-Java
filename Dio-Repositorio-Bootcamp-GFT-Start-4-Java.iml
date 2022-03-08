@@ -11,6 +11,7 @@
       <sourceFolder url="file://$MODULE_DIR$/ExerciciosJava/src/Arrays" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ExerciciosJava/src/HerançaAssociaçãoInterface" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ExerciciosJava/src/Projetos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ExerciciosJava/src/CollectionsList" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
